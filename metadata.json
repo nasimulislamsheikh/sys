@@ -1,0 +1,6 @@
+{
+  "name": "Sync Hub",
+  "description": "Comprehensive device data synchronization, permission diagnostics, chronological permission access audit logging, and CSV export for Location, Camera, Microphone, and other device subsystems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
